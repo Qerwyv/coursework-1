@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DichData>
+    <FXYCoefs>
+        <XYCoef FX = "0" FY = "0" />
+    </FXYCoefs>
+    <GXYCoefs>
+        <XYCoef GX = "0" GY = "0" />
+    </GXYCoefs>
+</DichData>

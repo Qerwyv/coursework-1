@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DichData>
+    <FXYCoefs>
+        <XYCoef FX="1.0" FY="1.0"/>
+        <XYCoef FX="2.0" FY="4.0"/>
+    </FXYCoefs>
+    <GXYCoefs>
+        <XYCoef GX="1.0" GY="5.0"/>
+        <XYCoef GX="2.0" GY="2.0"/>
+        <XYCoef GX="3.0" GY="3.0"/>
+    </GXYCoefs>
+</DichData>

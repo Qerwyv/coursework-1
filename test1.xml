@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<DichData>
+    <FXYCoefs>
+        <XYCoef FX = "-2" FY = "4" />
+        <XYCoef FX = "-1" FY = "1" />
+        <XYCoef FX = "0" FY = "0" />
+	<XYCoef FX = "1" FY = "1" />
+        <XYCoef FX = "2" FY = "4" />
+    </FXYCoefs>
+    <GXYCoefs>
+        <XYCoef GX = "1" GY = "1" />
+        <XYCoef GX = "2" GY = "2" />
+        <XYCoef GX = "3" GY = "3" />
+    </GXYCoefs>
+</DichData>
